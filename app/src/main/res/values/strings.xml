@@ -1,7 +1,7 @@
 <resources>
-    <string name="app_name">Wardak Baba</string>
-    <string name="base_url">https://app.wardakbaba.com</string>
-    <string name="offline_title">بدون اینترنت</string>
-    <string name="offline_message">اتصال اینترنت برقرار نیست. لطفاً بعداً دوباره تلاش کنید.</string>
-    <string name="downloading">در حال دانلود فایل…</string>
+    <string name="app_name">GMDS</string>
+    <string name="base_url">https://sakilmandal004-wq.github.io/GMDS-Super-App-2.O/</string>
+    <string name="offline_title">No Internet Connection</string>
+    <string name="offline_message">Please check your internet connection and try again.</string>
+    <string name="downloading">Downloading file...</string>
 </resources>
